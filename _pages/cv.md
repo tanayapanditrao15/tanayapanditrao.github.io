@@ -66,15 +66,15 @@ Academic Projects:
 ======
 - MACHINE LEARNING
      - Crop Disease Detection using Deep Learning and Web Application
-       	- Pre-processed the images of crops to remove noise
-	- Developed the Python code to detect the crop diseases for tomato, potato and pepper bell crops using Deep learning algorithm-AlexNet
-	- Developed web application that provides platform to upload the crop images and to display name of the disease and pesticides
-	- Deployed the system on Heroku server in which the model achieved 93% accuracy 
+       	Pre-processed the images of crops to remove noise
+	Developed the Python code to detect the crop diseases for tomato, potato and pepper bell crops using Deep learning algorithm-AlexNet
+	Developed web application that provides platform to upload the crop images and to display name of the disease and pesticides
+	Deployed the system on Heroku server in which the model achieved 93% accuracy 
 
      - Diabetic Retinopathy Detection usingMachine Learning (Decision Tree) :
-        - Pre-processed the images of eye
-	- Developed the Python code for decision tree to detect diabetic eye
-	- Achieved the accuracy of 95%
+        Pre-processed the images of eye
+	Developed the Python code for decision tree to detect diabetic eye
+	Achieved the accuracy of 95%
      
      - Implementation & Analysis of Machine Learning Algorithms : 
      	Implemented in Java k-Nearest Neighbor, Naive Bayes, Regression, Collaborative Filtering, ID3 decision tree, Perceptron, and analyzed their accuracy using sample data. Performed error analysis on supervised and unsupervised machine learning algorithms
