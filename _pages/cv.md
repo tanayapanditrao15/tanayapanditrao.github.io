@@ -51,12 +51,12 @@ Certification
 
 Professional Experience:
 ======
-Summer Intern (May 2018 - June 2018)
+- Summer Intern (May 2018 - June 2018)
     - SAN Telequip Pvt. Ltd., Pune
 	• Established contact with a remote device using SSH protocol with SSH Client –PuTTY
 	• Implemented Modbus protocol in Python which generates and sends Modbus request message from master device using ModScan
 	• Determined if there is communication loss and decided further actions to be taken by master device using reply message from remotedevice
-Software Engineering Intern (May 2019 - July 2019)
+- Software Engineering Intern (May 2019 - July 2019)
     - Tata Technologies, Pune
 	• Designed the REST API using Java that fetches the data from database and calculates Overall Equipment Effectiveness (OEE)
 	• Designed the dashboard that represents the values of OEE and indicates if the manufacturing process is productive or not
