@@ -77,7 +77,7 @@ Academic Projects:
 	Achieved the accuracy of 95%
      
      - Implementation & Analysis of Machine Learning Algorithms : 
-     	Implemented in Java k-Nearest Neighbor, Naive Bayes, Regression, Collaborative Filtering, ID3 decision tree, Perceptron, and analyzed their accuracy using sample data. Performed error analysis on supervised and unsupervised machine learning algorithms
+     Implemented in Java k-Nearest Neighbor, Naive Bayes, Regression, Collaborative Filtering, ID3 decision tree, Perceptron, and analyzed their accuracy using sample data. Performed error analysis on supervised and unsupervised machine learning algorithms
 
   
 - NATURAL LANGUAGE PROCESSING
