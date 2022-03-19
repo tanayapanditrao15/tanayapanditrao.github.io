@@ -65,11 +65,11 @@ Professional Experience:
 Academic Projects:
 ======
 - MACHINE LEARNING
-     - Crop Disease Detection using Deep Learning and Web Application :
-     	- Pre-processed the images of crops to remove noise
-	- Developed the Python code to detect the crop diseases for tomato, potato and pepper bell crops using Deep learning algorithm-AlexNet
-	- Developed web application that provides platform to upload the crop images and to display name of the disease and pesticides
-	- Deployed the system on Heroku server in which the model achieved 93% accuracy 
+	- Crop Disease Detection using Deep Learning and Web Application :
+		- Pre-processed the images of crops to remove noise
+		- Developed the Python code to detect the crop diseases for tomato, potato and pepper bell crops using Deep learning algorithm-AlexNet
+		- Developed web application that provides platform to upload the crop images and to display name of the disease and pesticides
+		- Deployed the system on Heroku server in which the model achieved 93% accuracy 
 
      - Diabetic Retinopathy Detection usingMachine Learning (Decision Tree) :
         *Pre-processed the images of eye
