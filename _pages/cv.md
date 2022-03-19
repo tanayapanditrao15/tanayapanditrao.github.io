@@ -70,31 +70,30 @@ Academic Projects:
 		- Developed the Python code to detect the crop diseases for tomato, potato and pepper bell crops using Deep learning algorithm-AlexNet
 		- Developed web application that provides platform to upload the crop images and to display name of the disease and pesticides
 		- Deployed the system on Heroku server in which the model achieved 93% accuracy 
-
-     - Diabetic Retinopathy Detection usingMachine Learning (Decision Tree) :
-        *Pre-processed the images of eye
-	*Developed the Python code for decision tree to detect diabetic eye
-	*Achieved the accuracy of 95%
+	- Diabetic Retinopathy Detection usingMachine Learning (Decision Tree) :
+		- Pre-processed the images of eye
+		- Developed the Python code for decision tree to detect diabetic eye
+		- Achieved the accuracy of 95%
      
-     - Implementation & Analysis of Machine Learning Algorithms : 
-     Implemented in Java k-Nearest Neighbor, Naive Bayes, Regression, Collaborative Filtering, ID3 decision tree, Perceptron, and analyzed their accuracy using sample data. Performed error analysis on supervised and unsupervised machine learning algorithms
+	- Implementation & Analysis of Machine Learning Algorithms : 
+		- Implemented in Java k-Nearest Neighbor, Naive Bayes, Regression, Collaborative Filtering, ID3 decision tree, Perceptron, and analyzed their accuracy using sample data. 
+		- Performed error analysis on supervised and unsupervised machine learning algorithms
 
   
 - NATURAL LANGUAGE PROCESSING
 
-     - Sarcasm Detection using Natural Language Processing
-        • Tokenized words and converted them into vectors
-	• Analyzed sentiments and developed neural networks to detect sarcasm
+	- Sarcasm Detection using Natural Language Processing
+		- Tokenized words and converted them into vectors
+		- Analyzed sentiments and developed neural networks to detect sarcasm
 
 - DATABASE
+	- Bitcoin Transaction System August 2021 - December 2021
+		- Developed the web-based application using JSP for buying-selling bitcoins and other bitcoin dynamics
+		- Developed backend using Springboot framework in Java and used mysql for database
 
-     - Bitcoin Transaction System August 2021 - December 2021
-	• Developed the web-based application using JSP for buying-selling bitcoins and other bitcoin dynamics
-	• Developed backend using Springboot framework in Java and used mysql for database
-
-     -  Police Quarter Allotment System using Database Management 
-	• Alloted police quarters according to the requirement and designation using SQL
-	• Designed front end using HTML, CSS, Javascript, PHP
+	- Police Quarter Allotment System using Database Management 
+		- Alloted police quarters according to the requirement and designation using SQL
+		- Designed front end using HTML, CSS, Javascript, PHP
      
 Awards and Leadership:
 ======
