@@ -13,7 +13,7 @@ Education
 ======
 
 - M.S. in Computer Science, The University of Texas at Dallas, Richardson TX  (2021 - 2023).
-- B.E. in Information Technology, Cummins College of Engineering for Women, Pune India (2017-2021).
+- B.Tech in Information Technology, Cummins College of Engineering for Women, Pune India (2017-2021).
 - 12th Computer Science(Bifocal- Software and Hardware), Sir Parshurambhau College, Pune India (2015-2017).
 
 Coursework
